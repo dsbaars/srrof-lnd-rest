@@ -1,0 +1,29 @@
+{
+  "name": "RoFjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Djuri Baars",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "@types/ws": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "eslint": "^7.32.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.3.7",
+    "@grpc/proto-loader": "^0.6.5",
+    "@types/body-parser": "^1.19.1",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/sockjs": "^0.3.33",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sockjs": "^0.3.21",
+    "ws": "^8.2.3"
+  }
+}
